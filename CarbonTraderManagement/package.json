@@ -1,0 +1,38 @@
+{
+  "name": "carbontrader",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^2.1.2",
+    "@heroicons/react": "^2.1.5",
+    "ahooks": "^3.8.0",
+    "headlessui": "^0.0.0",
+    "mitt": "^3.0.1",
+    "next": "14.1.0",
+    "next-auth": "^4.24.7",
+    "next-intl": "^3.17.2",
+    "preline": "^2.4.1",
+    "react": "^18.3",
+    "react-dom": "^18.3",
+    "react-markdown": "^9.0.1",
+    "sweetalert2": "^11.12.3",
+    "thirdweb": "^5"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  }
+}
